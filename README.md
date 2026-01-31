@@ -1,4 +1,4 @@
-# Musical-Date-Art
+# Musical-Data-Art
 Visualization of a song</br>
 
 Визуализация создана во время и после Дата арт Воркшопа, проводимого Натальей Киселёвой в январе 2026 года.</br></br>
