@@ -41,6 +41,9 @@ Visualization of a song</br>
 
 **Визуализация в Tableau**</br>
 В этом инструменте круг располагается так, что начало/нонец песни относительно максимума по оси Y сдвинуто против часовой стрелки на 90 градусов.</br>
+Для визуализации используется Circle</br>
+В категорийный признак взят параметр "Высота ноты (pitch)". Размер маркера задаёт duration_secs.</br>
+
 Поcтер доступен ссылке [Tablau public](https://public.tableau.com/app/profile/elena.tratcevskaia/viz/musicdateartposter/Dashboard1)<br>
 
 <div id="header" align="center"><img align="center" width="500" height="600" src="https://allwebs.ru/images/2026/01/31/c9ebf6a72890d2237e0327ac2b431b46.png"> </br>
