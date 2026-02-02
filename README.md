@@ -1,7 +1,6 @@
 # Musical-Data-Art
 Visualization of a song</br>
-Inspired by the lyrics of Sting's «Shape of My Heart»
-All musical rights remain with the authors and rights holders.</br>
+Creating an algorithmic visualization based on generalized parameters of the musical structure.</br>
 
 Визуализация создана во время и после Дата арт Воркшопа, проводимого Натальей Киселёвой в январе 2026 года.</br>
 
