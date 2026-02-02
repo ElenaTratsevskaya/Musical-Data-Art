@@ -31,7 +31,7 @@ All musical rights remain with the authors and rights holders.</br>
 
 ✴️ Свои готовые варианты собрала в Figma.</br>
 
-<img width="1920" height="1080" alt="STING Shape of my heart_1" src="https://github.com/user-attachments/assets/74578cef-cfbe-45f8-a5b3-c4d07112bf1d" /></br></br>
+<img width="1920" height="1080" alt="STING Shape of my heart_1" src="https://allwebs.ru/images/2026/02/02/3f11d749c2bc61676e389b971e0986a3.png" /></br></br>
 
 
 ---
@@ -44,17 +44,16 @@ All musical rights remain with the authors and rights holders.</br>
 **Визуализация в Tableau**</br>
 В этом инструменте круг располагается так, что начало/нонец песни относительно максимума по оси Y сдвинут против часовой стрелки на 90 градусов.</br>
 Для визуализации используется Circle</br>
-В категорийный признак взят параметр "Высота ноты (pitch)". Размер маркера задаёт duration_secs.</br>
 
 Поcтер доступен ссылке [Tablau public](https://public.tableau.com/app/profile/elena.tratcevskaia/viz/musicdateartposter/Dashboard1)<br>
 
-<div id="header" align="center"><img align="center" width="500" height="600" src="https://allwebs.ru/images/2026/01/31/c9ebf6a72890d2237e0327ac2b431b46.png"> </br>
+<div id="header" align="center"><img align="center" width="500" height="600" src="https://allwebs.ru/images/2026/02/02/fab74f85930b0f0296cd1776ec9a1a85.png"> </br>
 </div><br>
 
 **Визуализация в Power BI**</br>
 За основу берётся Bubble chart (Пузырьковая диаграмма)</br>
 В категорийный признак взят параметр "Высота ноты (pitch)"</br>
-<div id="header" align="center"><img align="center" width="900" height="450" src="https://allwebs.ru/images/2026/01/30/040aac9f35dd57281be23b8e70989ff4.png"> </div><br>
+<div id="header" align="center"><img align="center" width="700" height="450" src="https://allwebs.ru/images/2026/02/02/8179b0d8a2843e2544e1845d9bced661.png"> </div><br>
 
 **Визуализация в rawgraphs**</br>
 Он-лайн редактор. На сайте визуализация не сохраняется, только возможность скачивания. Скачать можно файлы различного формата в том числе и svg для удобства дальнейшей обработки в Figma.</br>
